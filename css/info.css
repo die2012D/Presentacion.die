@@ -1,0 +1,21 @@
+#info {
+    background: rgb(26, 138, 182);
+    color: #fff;
+    text-align: center;
+}
+
+#info .contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.info-muestra{
+    margin: 20px;
+}
+.info-muestra img{
+    width: 180px;
+    height: 230px;
+    border-radius: 50%;
+    border: 5px solid black;
+}
